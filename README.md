@@ -1,1 +1,3 @@
 # geometry
+
+re-thinking geometry
